@@ -10,5 +10,4 @@ func main() {
 		res ^= v
 	}
 	fmt.Println(res)
-
 }
